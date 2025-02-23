@@ -267,7 +267,7 @@ main > * {white-space: nowrap;}
 #section1 .spot {}
 /* ============================================================ section1 + footer */
 #section1 #footer {
-    margin-top: 100px;
+    margin: 100px 0 40px;
     padding-top: 40px;
     display: flex;
     justify-content: space-between;
